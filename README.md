@@ -1,1 +1,1 @@
-# Edugrade
+# EduGrade
